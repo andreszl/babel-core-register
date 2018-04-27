@@ -1,0 +1,20 @@
+{
+  "name": "babel",
+  "version": "1.0.0",
+  "description": "babel core register ",
+  "main": "server.js",
+  "scripts": {
+    "start:prod": "node babel.js"
+  },
+  "keywords": [
+    "babel"
+  ],
+  "author": "andreszl",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.26.2"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1"
+  }
+}
